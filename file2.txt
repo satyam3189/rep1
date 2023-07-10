@@ -1,1 +1,3 @@
 line 1 by master file2
+
+line 3 by br1 file2
